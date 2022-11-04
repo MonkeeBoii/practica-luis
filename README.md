@@ -1,68 +1,68 @@
-#MONSTER HUNTER 
+**MONSTER HUNTER** 
 
-##**MISIONES RANGO BAJO**
+**MISIONES RANGO BAJO**
 
-###**Desbloquear Misiones Dos Estrellas:**
+**Desbloquear Misiones Dos Estrellas:**
 Mata cinco Giaprey
 Recoge Tres Lenguas Popo
 Mata tres Blangos
 **Urgente :Caza al Giadrome**
 
-###**Desbloquear Misiones Tres Estrellas:**
+**Desbloquear Misiones Tres Estrellas:**
 Caza al Bulldrome
 Caza al Congalala
 Recoge tres Higados Piscine
 **Urgente : Caza al Khezu**
 
-###**Desbloquear Misiones Cuatro Estrellas:**
+**Desbloquear Misiones Cuatro Estrellas:**
 Mata diez Blango
 Caza alDaimyo Hermitaur
 Caza al Gypceros
 Recoge diez Setas especiales
 **Urgente: Caza al Blangonga**
 
-###**Desbloquear Misiones Cinco Estrellas:**
+**Desbloquear Misiones Cinco Estrellas:**
 Caza al Monoblos
 Caza al Basarios
 Caza al Daimyo Hermitaur
 Recoge quince Carbón
 **Urgente: Caza al Tigrex**
 
-###**Desbloquear seis estrellas:**
+**Desbloquear seis estrellas:**
 Caza dos Gypceros
 Caza al Diablos
 Caza dos Daimyo Hermitaur
 Caza al Gravios
 **Urgente : Rathalos y Rathian**
 
-##**MISIONES DE NEKOHT**
+**MISIONES DE NEKOHT**
 
-###**Desbloquear Misiones Ocho Estrellas:**
+**Desbloquear Misiones Ocho Estrellas:**
 Mata 20 Bullfangos
 Caza al Basarios
 Caza al Khezu
 Mata los congalalas que puedas
 **Urgente: Monoblos y Monoblos blanco**
 
-###**Desbloquear Misiones Nueve Estrellas:**
+**Desbloquear Misiones Nueve Estrellas:**
 Caza 2 Hypnocatrice
 Caza al Nargacuga
 Mata los Shogun Ceanataur que puedas
 Mata los Blangongas que puedas
 **Urgente: Nargacuga**
 
-###**Desbloqear Mision Final (Akantor):**
+**Desbloqear Mision Final (Akantor):**
 Caza 2 Tigrex
 Caza al Rathalos plateado y al Rathian dorado
 Caza al Rajang
 Mata al Shen Gaoren
 **Urgente: Akantor**
 
-##**MISIONES DEL GREMIO**
+**MISIONES DEL GREMIO**
 
-##**RC 1-2**
+**RC 1-2**
 
-###**Misiones 3 Estrellas:**
+**Misiones 3 Estrellas:**
 
 04 - Velocidrome Blanco
 14 - Cephadrome
@@ -71,9 +71,9 @@ Mata al Shen Gaoren
 **Mision Urgente - Blangonga**
 
 
-##**RC 2-3**
+**RC 2-3**
 
-##**Misiones 4 Estrellas:**
+**Misiones 4 Estrellas:**
 
 09 - Plesioth
 13 - 20 Hermitaur (En El Desierto)
@@ -82,9 +82,9 @@ Mata al Shen Gaoren
 18 - Iodrome
 **Mision Urgente - Tigrex**
 
-##**RC 3-4**
+**RC 3-4**
 
-##**Misiones 5 Estrellas:**
+**Misiones 5 Estrellas:**
 
 03 - Diablos
 05 - Gravios
@@ -92,9 +92,9 @@ Mata al Shen Gaoren
 09 - Rathian
 **Mision Urgente - Shen Gaoren**
 
-##**RC 4-5**
+**RC 4-5**
 
-##**Misiones 6 Estrellas:**
+**Misiones 6 Estrellas:**
 
 08 - Dos Gendromes
 10 - Dos Daimyo Hermitaur
@@ -103,9 +103,9 @@ Mata al Shen Gaoren
 
 **Mision Urgente** - Lao Shan Lung
 
-##**RC 5-6**
+**RC 5-6**
 
-##**Misiones 7 Estrellas:**
+**Misiones 7 Estrellas:**
 
 04 - Dos Blangonga
 07 - Khezu Rojo (Pantano)
@@ -114,7 +114,7 @@ Mata al Shen Gaoren
 18 - Basarios
 **Mision Urgente** - Doble Tigrex
 
-##**RC 6-Urgentes**
+**RC 6-Urgentes**
 
 06 - Diablos Negro
 10 - Gravios Negro
@@ -126,7 +126,7 @@ Mata al Shen Gaoren
 **Al pasarte esta te dan otro que es:**
 **Mision Urgente: Doble Hypnocatrice**
 
-##**RC7-->RC8**
+**RC7-->RC8**
 
 9 - Doble Hypnocatrice (RC6 urgente)
 12 - Daimyo Hermitaur cereza ("Antiguo" Desierto)
@@ -137,7 +137,7 @@ Mata al Shen Gaoren
 
 **Mision Urgente: Nargacuga (RC7 urgente)**
 
-##**RC8-->RC9**
+**RC8-->RC9**
 
 3 - Nargacuga (RC7 urgente)
 6 - Lavasioth ("Volcan")
@@ -148,7 +148,7 @@ Mata al Shen Gaoren
 
 **Urgente: Yamashikami ("Torre")**
 
-##**RC9-->Ukanlos (Como desbloquearlo)**
+**RC9-->Ukanlos (Como desbloquearlo)**
 
 Tigrex (Montañas nevadas)
 Dual Diablos Negros ("Antiguo" Desierto)
